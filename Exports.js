@@ -1,0 +1,5 @@
+export { default as Freighter } from "./src/Freighter.js"
+export { default as FreighterOld } from "./src/FreighterOld.js"
+export { default as FreighterCrypto } from "./src/FreighterCrypto.js"
+export { default as FreighterPolling } from "./src/FreighterPolling.js"
+export { default as FreighterPrivateChannel } from "./src/FreighterPrivateChannel.js"
